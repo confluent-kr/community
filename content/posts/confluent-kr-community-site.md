@@ -12,5 +12,5 @@ tag: site
 
 Data Streaming 에 관심이 많으신 분들의 많은 관심을 바랍니다.
 
-
+컨플루언트에 원하는 자료가 있으시면 jhwang@confluent.io 나 jshin@confluent.io 로 연락주시기 바랍니다.
 

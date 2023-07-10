@@ -1,5 +1,22 @@
 baseURL = 'http://confluent-kr.github.io/'
 languageCode = 'ko-KR'
 title = 'Confluent KR Community'
+theme = "cleanwhite"
 
-theme = "ananke"
+
+
+
+
+[params.giscus]
+data_repo="confluent-kr/confluent-kr.github.io"
+data-repo-id="R_kgDOJ5w68Q"
+data-category="Q&A"
+data-category-id="DIC_kwDOJ5w68c4CXytb"
+data-mapping="pathname"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="0"
+data-input-position="bottom"
+data-theme="preferred_color_scheme"
+data-lang="ko"
+crossorigin="anonymous"

@@ -1,3 +1,4 @@
+
 baseURL = 'https://confluent-kr.github.io/'
 languageCode = 'ko-KR'
 title = 'Confluent KR Community'
@@ -24,8 +25,9 @@ home = ["HTML"]
 
   # leancloud storage for page view counter
   page_view_conter = false
-  leancloud_app_id = ""
-  leancloud_app_key = ""
+  
+  # leancloud_app_id = ""
+  # leancloud_app_key = ""
 
   # algolia site search
   algolia_search = true
@@ -42,7 +44,7 @@ home = ["HTML"]
   featured_condition_size = 1 
 
   # Baidu Analytics
-  ba_track_id = ""
+  # ba_track_id = ""
   
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
@@ -54,12 +56,12 @@ home = ["HTML"]
   # twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  # reward = true 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   # friends = true
-  bookmarks = false
-  about_me = true
+  bookmarks = true
+  about_me = false
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
@@ -71,7 +73,7 @@ home = ["HTML"]
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/confluentinc"
+  linkedin       = "https://www.linkedin.com/company/confluent"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   github         = "https://github.com/confluentinc"

@@ -1,4 +1,4 @@
-baseURL = 'http://confluent-kr.github.io/'
+baseURL = 'https://confluent-kr.github.io/'
 languageCode = 'ko-KR'
 title = 'Confluent KR Community'
 theme = "cleanwhite"

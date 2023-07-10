@@ -18,7 +18,7 @@ home = ["HTML"]
   keyword = "컨플루언트, Kafka, ksqldb, connect, flink, data streaming, stream processing, data in motion, confluent"
   slogan = "Data in Motion"
 
-  image_404 = "img/404-bg.jpg"
+  image_404 = "img/img-bg-header.jpg"
   title_404 = " :("
   omit_categories = false
 

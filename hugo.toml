@@ -1,6 +1,5 @@
 
 baseURL = 'https://confluent-kr.github.io/'
-languageCode = 'ko-KR'
 title = ''
 theme = "cleanwhite"
 languageCode = "en-US.UTF8"

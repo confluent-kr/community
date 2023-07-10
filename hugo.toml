@@ -1,12 +1,14 @@
 
 baseURL = 'https://confluent-kr.github.io/'
-title = ''
+title = 'confluent kr community'
 theme = "cleanwhite"
 languageCode = "en-US.UTF8"
 DefaultContentLanguage = "kr"
 
+builddrafts = true
+canonifyurls = true
 preserveTaxonomyNames = true
-paginate = 10 #frontpage pagination
+paginate = 20 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
